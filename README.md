@@ -1,6 +1,6 @@
 # comp115_project1
 
-''' For this project, I was inspired by my cat, Ollie. He is a sweet, loving cat who loves food (especially fish!) 
+For this project, I was inspired by my cat, Ollie. He is a sweet, loving cat who loves food (especially fish!) 
 so I hope I did alright in portraying him in my turtle drawing!
 
 In this folder, I have included my code, a screenshot of the drawing and a reference photo of Ollie.
@@ -12,4 +12,4 @@ picture will be drawn in that line of code.
 Please note that for the background stars and the stripes in Ollie's fur, I have used the random module, so those two elements
 will differ from my screenshot every time the program is run.
 
-I hope you enjoy my drawing!'''
+I hope you enjoy my drawing!
